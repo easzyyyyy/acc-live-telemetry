@@ -41,7 +41,7 @@ It allows sending this data to external electronic devices, enabling the creatio
 
 ## License
 
-This project is distributed under the **MIT License**.
+This project is distributed under the **MIT License**, see [LICENSE](LICENSE).
 
 ---
 
